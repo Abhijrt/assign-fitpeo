@@ -51,7 +51,7 @@ Follow these instructions to set up and run the project locally.
 
 ### Project Structure
 
-- `/src`: Contains All the details about the Porject
+- `/src`: Contains All the details about the Project
   - `index.js`: The Main Entry Point of the Project
 - `/components`: Contains reusable React components.
 
