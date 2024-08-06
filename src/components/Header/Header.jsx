@@ -13,7 +13,7 @@ const Header = () => {
             </svg>
           </span>
           <div className='ml-6 relative'>
-            <span className='block h-6 w-6 md:h-4 md:w-4 absolute -top-3 md:top-1.5 left-2'>
+            <span className='block h-6 w-6 md:h-4 md:w-4 absolute -top-3 md:top-2 left-2'>
               <svg
                 fill='white'
                 xmlns='http://www.w3.org/2000/svg'
@@ -24,7 +24,7 @@ const Header = () => {
             </span>
             <input
               placeholder='Search'
-              className='hidden md:flex ps-8 border border-solid border-white p-1 bg-light-black rounded-lg'
+              className='hidden md:flex ps-8 border border-solid border-white p-1 bg-light-black rounded-lg text-white'
             />
           </div>
         </div>

@@ -17,7 +17,7 @@ const RecentOrder = () => {
           <tbody>
             {customDetails.map((customer) => (
               <tr
-                className='border-b border-solid border-b-grey py-4 flex justify-between capitalize items-center'
+                className='border-b border-solid border-b-grey py-4 flex justify-between capitalize items-center last:border-none'
                 key={customer.name}
               >
                 <td className='flex items-center min-w-60'>

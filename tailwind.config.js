@@ -28,6 +28,7 @@ module.exports = {
       8: '8px',
     },
     borderWidth: {
+      DEFAULT: '1px',
       12: '12px',
     },
     extend: {},
